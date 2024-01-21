@@ -1,0 +1,12 @@
+{
+	"apiVersion": 2,
+	"name": "alex/gutenbeg-block",
+	"title": "My Gutenberg Block",
+	"description": "Gutenberg Block",
+	"category": "text",
+	"icon": "admin-customizer",
+	"textdomain": "gutenbeg-block",
+	"editorScript": "file:./build/index.js",
+	"style": "file:./build/style-index.css",
+	"editorStyle": "file:./build/index.css"
+}
