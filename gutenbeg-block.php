@@ -2,7 +2,7 @@
 /**
  * Plugin Name: My Gutenberg Block
  * Plugin URI: https://alexdev.com
- * Description: Gutenberg Block
+ * Description: Gutenberg Dynamic Block
  * Author: Egor Alexseev
  * Author URI: https://alexdev.com
  */
